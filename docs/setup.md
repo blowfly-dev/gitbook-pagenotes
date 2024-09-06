@@ -1,10 +1,5 @@
 ## Installation
 
-Using npm:
-```bash
-npm install gitbook-plugin-pagenotes --save
-```
-
 ## Enable plugin
 
 Enable using a `book.json` configuration:
@@ -16,7 +11,7 @@ Enable using a `book.json` configuration:
 
 ## Usage
 
-In [Gitbook CLI](https://github.com/GitbookIO/gitbook):
+In [Gitbook CLI](https://github.com/GitbookIO/gitbook/tree/legacy):
 ```bash
 $ gitbook build
 ```
