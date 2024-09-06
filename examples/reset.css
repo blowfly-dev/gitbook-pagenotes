@@ -1,0 +1,23 @@
+/* website */
+.book .footnotes ul {
+  padding: 0;
+  margin: 0;
+}
+.book .footnotes ul li {
+  list-style-type: none;
+}
+.book .footnotes ol li {
+  list-style-type: decimal;
+}
+
+/* ebook */
+.page .section .footnotes ul {
+  padding: 0;
+  margin: 0;
+}
+.page .section .footnotes ul li {
+  list-style-type: none;
+}
+.page .section .footnotes ol li {
+  list-style-type: decimal;
+}

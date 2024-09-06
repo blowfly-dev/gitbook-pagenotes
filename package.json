@@ -1,0 +1,32 @@
+{
+    "name": "gitbook-pagenotes",
+    "description": "Add nicely formatted footnotes to your GitBook",
+    "main": "index.js",
+    "version": "1.0.0",
+    "engines": {
+        "gitbook": "^3.0.0",
+        "node": ">=6"
+    },
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": ""
+    },
+    "scripts": {
+        "prepare": "./build/readme.sh",
+        "test": "mocha || true"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.10",
+        "pug": "^3.0.2"
+    },
+    "devDependencies": {
+        "chai": "^4.3.4",
+        "eslint": "^7.32.0",
+        "mocha": "^9.1.1"
+    }
+}

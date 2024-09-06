@@ -1,0 +1,11 @@
+each item in items
+  div.footnote(
+      id=`fn_${item.id}`
+      role='doc-endnote')
+    a.footnote-back(
+      href=`#reffn_${item.id}`
+      title=`Link to footnote ${item.id}`
+      role='doc-backlink')
+      sup.footnote-ref-counter
+        | #{item.id}
+    |  !{item.body}

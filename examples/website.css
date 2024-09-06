@@ -1,0 +1,23 @@
+.footnotes {
+  padding: 1em 0;
+  margin-top: 2em;
+  border-top: 1px solid #999;
+}
+.footnotes ul li {
+  margin-bottom:  .5em;
+}
+.footnotes sup.footnote-ref-counter {
+  font-size: 75%;
+  position: relative;
+  vertical-align: baseline;
+  line-height: 0;
+  top: -.4em;
+  /*margin-right: .4em;*/
+}
+.footnotes .footnote a.footnote-back {
+  /*margin-left: .4em;*/
+}
+.footnote {
+  font-size: .875em;
+  line-height: 1.5;
+}
