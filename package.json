@@ -1,5 +1,5 @@
 {
-    "name": "gitbook-pagenotes",
+    "name": "gitbook-plugin-pagenotes",
     "description": "Add nicely formatted footnotes to your GitBook",
     "main": "index.js",
     "version": "1.0.0",
