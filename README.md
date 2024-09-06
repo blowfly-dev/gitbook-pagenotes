@@ -1,6 +1,6 @@
-# Pagenotes
+# Better footnotes in GitBook (legacy version only)
 
-Pagenotes adds nicely formatted footnotes to your Gitbook.
+This plugin uses [Pug](https://pugjs.org/api/getting-started.html) templates to render nicely formatted footnotes in your gitbook.
 
 ## Documentation
 
